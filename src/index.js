@@ -1,0 +1,1 @@
+import cards from './menu.json';
