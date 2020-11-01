@@ -1,1 +1,3 @@
-import cards from './menu.json';
+import './js/markup';
+import './js/theme-switch';
+
